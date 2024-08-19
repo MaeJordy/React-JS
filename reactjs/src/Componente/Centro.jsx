@@ -7,6 +7,7 @@ function Centro() {
         <section className="Centro">
             <div className='Textis'>
                  <h2>Conoce lugares sorprendentes</h2>
+                    <br/>
                     <p>
                      Contrary to popular belief, Lorem Ipsum is not simply 
                      random text. It has roots in a piece of classical Latin literature 
