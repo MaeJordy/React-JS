@@ -8,12 +8,14 @@ import Hora from './Componente/Hora'
 function App(){
 
 return <>
+
         <Cabeza />
         <Banner />
         <Centro />
         <Hora />
         <Vistas />
         <Pie />
+
        </>
 
 }
